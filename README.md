@@ -3,7 +3,9 @@
 
 Ось код без коментарів. код з коменталями у файлі .leo
 
-program library_management_kx0d8ki.aleo {
+{
+
+    program library_management_kx0d8ki.aleo {
     struct Book {
         id: u32,
         title: string,
